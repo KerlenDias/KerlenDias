@@ -4,7 +4,7 @@ Meu nome é Kerlen Cristina, tenho 23 anos e sou estudante do 4º poríodo de Ci
 <br>
 
 <!-- GITHUB STATUS -->
-<div>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KerlenDias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KerlenDias&layout=compact&langs_count=10&theme=dark"/>
 
