@@ -2,6 +2,9 @@ Sejam Bem Vindos ao meu GitHub!  :smiley:
 <br>
 Meu nome é Kerlen Cristina, tenho 23 anos e sou estudante do 4º poríodo de Ciência da Computação e estou no módulo de Front-end do curso de Desenvolvimento Web na Trybe.
 <br>
+<div>
+  <img height="180em" src="https://dev.to/chipd/i-made-some-dev-to-loading-gifs-which-is-best-i1m" />
+</div>
 
 <!-- GITHUB STATUS -->
 <div align="center">
