@@ -7,13 +7,14 @@
 <!-- GITHUB STATUS -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KerlenDias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KerlenDias&layout=compact&langs_count=10&theme=dracula"/>
+  <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
-
-  <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
 
 <br>
+
 <!-- REDES SOCIAIS -->
 <div align="center">
   <a href="https://www.linkedin.com/in/kerlen-dias-04b90b17a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
