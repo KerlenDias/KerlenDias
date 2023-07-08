@@ -1,14 +1,15 @@
 <div align="center">
-  <table align="right">
+<!--   <table align="right">
     <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
     <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
-  </table>
+  </table> -->
   <h1>Sejam Bem Vindos ao meu GitHub! :smiley:</h1>
   <table>
     <tr>
       <td>
         <p>-Tenho 23 anos e sou estudante do 4º período de Ciência da Computação e estou no módulo de Front-end do curso de Desenvolvimento Web na Trybe.</p>
-        <p>-No meu tempo livre gosto de caminhar com meus cachorros</p>
+        <p>-No meu tempo livre gosto de caminhar com meus cachorrose jogar Fortnite.</p>
+        <p>-Meus livros favoritos são da coleção de A maldição do tigre.</p>
       </td>
       <td>
         <img height="180em" src="https://res.cloudinary.com/practicaldev/image/fetch/s--0UiMFgbU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0vbfzhjcsjs0u716x88o.gif">
