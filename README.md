@@ -8,7 +8,7 @@
     <tr>
       <td>
         <p>-Tenho 23 anos e sou estudante do 4º período de Ciência da Computação e estou no módulo de Front-end do curso de Desenvolvimento Web na Trybe.</p>
-        <p>-No meu tempo livre gosto de caminhar com meus cachorrose jogar Fortnite.</p>
+        <p>-No meu tempo livre gosto de caminhar com meus cachorros e jogar Fortnite.</p>
         <p>-Meus livros favoritos são da coleção de A maldição do tigre.</p>
       </td>
       <td>
