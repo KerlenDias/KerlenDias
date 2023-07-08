@@ -3,7 +3,8 @@
   <table>
     <tr>
       <td>
-        <p>Meu nome é Kerlen Cristina, tenho 23 anos e sou estudante do 4º período de Ciência da Computação e estou no módulo de Front-end do curso de Desenvolvimento Web na Trybe.</p>
+        <p>Tenho 23 anos e sou estudante do 4º período de Ciência da Computação e estou no módulo de Front-end do curso de Desenvolvimento Web na Trybe.</p>
+      
       </td>
       <td>
         <img height="180em" src="https://res.cloudinary.com/practicaldev/image/fetch/s--0UiMFgbU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0vbfzhjcsjs0u716x88o.gif">
