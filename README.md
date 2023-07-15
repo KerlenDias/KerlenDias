@@ -12,6 +12,7 @@
         <p>-Estou focando meu aprendizado em Banco de dados, Java, Python, HTML, CSS, JS, React, Redux, Soft Skills e IA.
         <p>-No meu tempo livre gosto de caminhar com meus cachorros e jogar Fortnite.</p>
         <p>-Meus livros favoritos são da coleção de A maldição do tigre.</p>
+        <p>-Frase motivacional: Tudo o que um sonho precisa para ser realizado é alguém que acredite que ele possa ser realizado. (Roberto Shinyashiki)</p>
       </td>
       <td>
         <img height="180em" src="https://res.cloudinary.com/practicaldev/image/fetch/s--0UiMFgbU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0vbfzhjcsjs0u716x88o.gif">
