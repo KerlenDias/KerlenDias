@@ -7,7 +7,7 @@
   <table>
     <tr>
       <td>
-        <p>-Tenho 23 anos</p>
+        <p>-Tenho 24 anos</p>
         <p>-Sou estudante do 4º período de Ciência da Computação e estou no módulo de Back-end do curso de Desenvolvimento Web na Trybe.</p>
         <p>-Estou focando meu aprendizado em Banco de dados, Java, Python, HTML, CSS, JS, React, Redux, Soft Skills e IA.
         <p>-No meu tempo livre gosto de caminhar com meus cachorros e jogar Fortnite.</p>
