@@ -15,10 +15,92 @@
         <p>-Frase motivacional: Tudo o que um sonho precisa para ser realizado é alguém que acredite que ele possa ser realizado. (Roberto Shinyashiki)</p>
       </td>
       <td>
-        <img height="180em" src="https://res.cloudinary.com/practicaldev/image/fetch/s--0UiMFgbU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0vbfzhjcsjs0u716x88o.gif">
+        <img height="400em" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
       </td>
     </tr>
   </table>
+</div>
+
+<h2>Tecnologias: 🧑‍💻</h2> 
+
+<div align="left">
+  <table>
+  <tbody>
+    <tr>
+      <td align="center">
+        <strong>
+          <em>Linguages</em>
+        </strong>
+      </td>
+      <td width="80px" align="center">
+        <span><strong>HTML</strong></span><br>
+        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>CSS</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Javascript</strong></span><br>
+        <img height="32px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Java</strong></span><br>
+        <img height="32px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Python</strong></span><br>
+        <img height="32px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+      </td>
+    </tr>
+    <tr >
+      <td align="center">
+        <strong>
+          <em>FrameWorks</em>
+        </strong>
+      </td>
+      <td width="80px" align="center">
+        <span><strong>React</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Jest</strong></span><br>
+        <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Redux</strong></span><br>
+        <img height="32" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
+      </td>
+      <td>
+      </td>
+      <td >
+      </td>
+    </tr>
+    <tr >
+      <td align="center">
+        <strong>
+          <em>Tools</em>
+        </strong>
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Git</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>GitHub</strong></span><br>
+        <img height="32px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Figma</strong></span><br>
+        <img height="32px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+      </td>
+       <td >
+      </td>
+      <td >
+      </td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 <!-- GITHUB STATUS -->
